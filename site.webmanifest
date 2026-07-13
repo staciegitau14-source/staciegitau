@@ -1,0 +1,16 @@
+{
+    "name": "The Physical Atlas of Africa",
+    "short_name": "Atlas of Africa",
+    "start_url": "./afrrika%20karte.html",
+    "display": "standalone",
+    "background_color": "#1B1916",
+    "theme_color": "#1B1916",
+    "icons": [
+        {
+            "src": "favicon.svg",
+            "sizes": "any",
+            "type": "image/svg+xml",
+            "purpose": "any"
+        }
+    ]
+}
